@@ -13,7 +13,28 @@
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
           "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
-          "videoLink": "https://example.com/streisand-video"
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/1.jpg"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/2.jpg"
+            },
+            {
+              "stepText": "Step 3: Choose your server location.",
+              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/3.jpg"
+            },
+            {
+              "stepText": "Step 4: Click on the connect button (blue).",
+              "faStepText": "مرحله ۴: بر روی دکمه اتصال (آبی) کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/4.jpg"
+            }
+          ]
         },
         {
           "name": "Shadowrocket",
@@ -22,8 +43,7 @@
           "description": "A rule-based proxy utility client for iOS.",
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
           "configLink": "https://example.com/shadowrocket-config",
-          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
-          "videoLink": "https://example.com/shadowrocket-video"
+          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
         },
         {
           "name": "V2box",
@@ -31,9 +51,25 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "v2box://install-sub?url={url}&name=TheNet",
+          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-          "videoLink": "https://example.com/v2box-video"
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the V2box app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه وی تو باکس را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box/1.jpg"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box/2.jpg"
+            },
+            {
+              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the slide to connect section.",
+              "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت از بخش slide to connect متصل شوید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box/3.jpg"
+            }
+          ]
         }
       ]
     },
@@ -48,9 +84,25 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
-          "configLink": "v2rayng://install-config?url={url}&name=TheNet",
+          "configLink": "v2rayng://install-config?url={url}",
           "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-          "videoLink": "https://example.com/v2rayng-video"
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
+              "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/1.jpg"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/2.jpg"
+            },
+            {
+              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
+              "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/3.jpg"
+            }
+          ]
         },
         {
           "name": "V2box",
@@ -58,9 +110,25 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "v2box://install-sub?url={url}&name=TheNet",
+          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
-          "videoLink": "https://example.com/v2box-video"
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the V2box app from the Google Play Store.",
+              "faStepText": "مرحله ۱: برنامه وی تو باکس را از پلی استور دانلود و نصب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/1.jpg"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/2.jpg"
+            },
+            {
+              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the connect Button.",
+              "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت با زدن روی دکمه کانکت متصل شوید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/3.jpg"
+            }
+          ]
         }
       ]
     },
@@ -75,8 +143,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip",
-          "videoLink": "https://example.com/v2rayn-video"
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
         },
         {
           "name": "Nekoray",
@@ -84,8 +151,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
-          "videoLink": "https://example.com/nekoray-video"
+          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
         }
       ]
     },
@@ -100,8 +166,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
-          "videoLink": "https://example.com/nekoray-video"
+          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
         },
         {
           "name": "SingBox",
@@ -109,7 +174,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
-          "configLink": "sing-box://import-remote-profile?url={url}#TheNet",
+          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/latest",
           "videoLink": "https://example.com/sing-box-video"
         }
